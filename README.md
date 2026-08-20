@@ -1,5 +1,12 @@
 # Modelagem de Crescimento Agrícola com Apache Spark, Streamlit e GenAI (Gemini Gratuito / OpenAI)
 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 > ⚠️ **Aviso Importante:** Todos os dados, métricas e informações contidos neste projeto são **100% fictícios**. Este repositório foi desenvolvido estritamente para uso pessoal, fins de estudo e composição de portfólio profissional.
 
 Este projeto implementa uma solução completa de **Analytics e IA Generativa (GenAI Dashboard)** utilizando **Apache Spark (PySpark)**, **Streamlit** e **Modelos de Linguagem (LLM)** como **Google Gemini (Gratuito)** ou **OpenAI GPT-4o** para processamento, visualização e geração de insights agronômicos a partir de dados sobre o crescimento de culturas agrícolas (*milho*, *soja*, *trigo*).
